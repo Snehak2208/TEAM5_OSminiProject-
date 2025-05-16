@@ -1,4 +1,19 @@
-# Multiplayer Chess
+
+## ♟️ Multiplayer Chess Game in C
+
+This project is a **LAN-based multiplayer Chess game** developed in the C programming language using **TCP socket programming**. It enables two players to play a full game of chess over a local network (Wi-Fi), with a text-based UI rendered in the terminal.
+
+### 🚀 Features
+- Two-player chess over LAN (one acts as server, the other as client)
+- Terminal-based chess board display
+- Turn-based gameplay with real-time updates
+- Basic move validation and state management
+- Implemented using low-level socket APIs
+
+### 🧰 Tech Stack
+- **Language:** C
+- **Networking:** TCP sockets (`sys/socket.h`)
+- **Platform:** Linux / Windows (tested with GCC/MINGW)
 
 # Game preview
 <img src="./images/game2.png" alt="game preview">
