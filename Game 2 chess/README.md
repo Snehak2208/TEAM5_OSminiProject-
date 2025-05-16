@@ -1,6 +1,8 @@
 # Multiplayer Chess
 
 ![game preview](/images/game2.png)
+<img src="./images/game2.png" alt ="game preview">
+
 
 
 ### Run multiplayer CHESS:
