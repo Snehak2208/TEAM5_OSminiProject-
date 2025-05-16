@@ -157,3 +157,7 @@ Round Ends
 4. Push to the branch
 5. Create a new Pull Request
 
+## Credits
+
+Developed by Sneha Kumari.  
+Inspired by classical wordle and similar guessing games.
