@@ -15,7 +15,7 @@ This project is a **LAN-based multiplayer Chess game** developed in the C progra
 - **Networking:** TCP sockets (`sys/socket.h`)
 - **Platform:** Linux / Windows (tested with GCC/MINGW)
 
-# Game preview
+### Game preview
 <img src="./images/game2.png" alt="game preview">
 
 
