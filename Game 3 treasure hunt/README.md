@@ -2,6 +2,9 @@
 
 A modular, text-based multiplayer treasure hunt game for two teams, featuring hidden treasures, visited markers, and flexible movement commands.
 
+
+<img src="./Treasure Hunt.jpg" alt="Modular flow" >
+
 ---
 
 ## Features
