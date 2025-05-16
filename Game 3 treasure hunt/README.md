@@ -115,6 +115,26 @@ Enter move (e.g., up, left 4, right 2, down):
   Change `GRID_SIZE` and `MAX_TREASURES` in the code to adjust difficulty.
 
 ---
+
+## Game Demo Screenshots
+
+### Game Interface
+![Game Interface](screenshots/game_interface.png)
+*Initial game board showing the 10x10 grid with player positions*
+
+### Multiplayer Interaction and Move selection option
+![Multiplayer Interaction](./picture2.jpg)
+*Multiple players interacting on the game board*
+
+### Waiting for own turn
+![Gameplay Progress](./picture1.jpg)
+*Mid-game screenshot showing visited cells (V) and found treasures (T) and a player waiting for its turn*
+
+
+> Note: Replace the screenshot paths with actual screenshots of your game demo.
+
+---
+
 ## Credits
 
 Developed by Nirvan Jain.  
