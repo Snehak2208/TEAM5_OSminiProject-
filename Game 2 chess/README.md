@@ -1,8 +1,7 @@
 # Multiplayer Chess
 
-<img src="./images/game2.png" alt ="game preview">
-
-![Game preview](./images/gamepreview.gif)
+# Game preview
+<img src="./images/game2.png" alt="game preview">
 
 
 ### Run multiplayer CHESS:
@@ -31,7 +30,7 @@ While the client will have to run the client executable and specify the IP addre
 ./client "ip address" "port number"
 ```
 You are now ready to play online chess in your terminal via TCP/IP socket, enjoy!
-![game preview](/images/gamepreview.gif)
+![game preview](./images/gamepreview.gif)
 
 ### How to move pieces:
 As of now, only the following positional convention is supported: any piece on the board is represented by an ordered couple of a lowercase character(a-h) and an integer(1-8) [row,column]: In order to move a piece from a point to another, we use the following syntax:
