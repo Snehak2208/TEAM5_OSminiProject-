@@ -34,6 +34,7 @@ All games follow a client-server architecture with the following common features
 ## 🎯 Project Presentation
 
 The project includes:
+- [View Complete Project Presentation](https://drive.google.com/file/d/1SmKDQkQ6_sJq8sSIHgt2DYPGPUE-zlXC/view)
 - Technical presentation slides
 - Live demonstration of all three games
 - Architecture and design explanation
@@ -46,6 +47,8 @@ Key presentation points:
 - Network latency management
 - Error handling scenarios
 - Future improvement possibilities
+
+> Note: You need to be signed in to your Google account to access the presentation.
 
 ## 🔧 Prerequisites
 
